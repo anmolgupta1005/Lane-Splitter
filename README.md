@@ -47,4 +47,4 @@ Features of games:
   * Multifont
 
 
-[![Watch the video](https://www.youtube.com/watch?v=s36H25OkzVQ)
+[Watch the video](https://www.youtube.com/watch?v=s36H25OkzVQ)
