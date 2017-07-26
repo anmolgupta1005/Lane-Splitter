@@ -1,0 +1,5 @@
+# Ignore the reports in the folder
+*.pdf
+
+# MAC files
+*.db
