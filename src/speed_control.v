@@ -6,7 +6,7 @@
 // Create Date:    06:32:54 12/16/2015 
 // Design Name: 
 // Module Name:    speed_control 
-// Project Name: Lane Splitter
+// Project Name: Rush Hour
 // Target Devices: The Nexys3 is a complete, ready to Xilinx Spartan6 LX16 FPGA
 // Tool versions: 
 // Description: The snippet of code controls the speed of the counter. To this end

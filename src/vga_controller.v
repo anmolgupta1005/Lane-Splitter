@@ -6,7 +6,7 @@
 // Create Date:    22:26:14 12/11/2015 
 // Design Name: 
 // Module Name:    vga_controller 
-// Project Name: Lane Splitter
+// Project Name: Rush Hour
 // Target Devices: The Nexys3 is a complete, ready to Xilinx Spartan6 LX16 FPGA
 // Tool versions: 
 // Description: As the name of the file suggests, the file contains the VGA driver

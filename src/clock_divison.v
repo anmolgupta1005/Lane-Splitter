@@ -6,12 +6,12 @@
 // Create Date:    06:21:31 12/16/2015 
 // Design Name: 
 // Module Name:    clock_divison 
-// Project Name: Lane_Splitter
+// Project Name: Rush Hour
 // Target Devices: The Nexys3 is a complete, ready to Xilinx Spartan6 LX16 FPGA
 // Tool versions: 
 // Description: The snippet generates a 1Hz clock using the 25MHz clock using clock 
 //				division
-// Dependencies: 
+// Dependencies:
 //
 // Revision: 
 // Revision 0.01 - File Created

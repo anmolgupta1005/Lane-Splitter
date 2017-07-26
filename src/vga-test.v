@@ -7,7 +7,7 @@
 // Create Date:   00:53:02 12/12/2015
 // Design Name:   vga_display
 // Module Name:   X:/Documents/VGA_Controlller/vga-test.v
-// Project Name:  VGA_Controlller
+// Project Name:  Rush Hour
 // Target Device:  The Nexys3 is a complete, ready to Xilinx Spartan6 LX16 FPGA
 // Tool versions:  
 // Description: Test bench for the VGA-controller
